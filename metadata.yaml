@@ -1,0 +1,32 @@
+_repo: The-mystery-of-the-Peacock-s-Eye_75195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Flynn, Brian
+    birthdate: 1885
+    deathdate: 1958
+    gutenberg_agent_id: '49940'
+    url: http://www.gutenberg.org/2009/agents/49940
+description: ''
+gutenberg_issued: '2025-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75195'
+  lccn: '28029929'
+language: en
+pgterms:marc905: 20240314162522flynn
+pgterms:marc906: '1928'
+pgterms:marc907: GB
+production_note: Brian Raiter
+publication_note: '  $aLondon :$bJohn Hamilton Ltd., $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Bathurst, Anthony (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The mystery of the Peacock's Eye
+url: http://www.gutenberg.org/ebooks/75195
