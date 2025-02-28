@@ -1,5 +1,8 @@
 _repo: The-mystery-of-the-Peacock-s-Eye_75195
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75195-h/images/cover.jpg
 creator:
   author:
     agent_name: Flynn, Brian
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '49940'
     url: http://www.gutenberg.org/2009/agents/49940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75195#The-mystery-of-the-Peacock-s-Eye
 gutenberg_issued: '2025-01-24'
 gutenberg_type: Text
 identifiers:
